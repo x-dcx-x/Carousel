@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-Chatgpt v1
+
 
 document.addEventListener("DOMContentLoaded", function () {
     let nbr = 10;
